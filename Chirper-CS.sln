@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chirper-CS", "Chirper-CS\Chirper-CS.csproj", "{7DD4CE26-0104-4804-A077-86D93D53CAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD4CE26-0104-4804-A077-86D93D53CAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD4CE26-0104-4804-A077-86D93D53CAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD4CE26-0104-4804-A077-86D93D53CAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD4CE26-0104-4804-A077-86D93D53CAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDAEAF42-677C-42EB-8E40-17A0D82958C8}
+	EndGlobalSection
+EndGlobal
